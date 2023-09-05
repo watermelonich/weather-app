@@ -1,2 +1,2 @@
 # weather-app
-The Swift Weather App is a feature-rich iOS 15 application developed in Swift using Xcode.
+The Swift Weather App is a feature-rich iOS application developed in Swift using Xcode. It addresses the need for a user-friendly and accurate weather information platform. Key features include real-time weather data, location services, an intuitive interface, multi-location support, weather forecasts, and alerts. The app demonstrates proficiency in Swift programming, Xcode development, API integration, UI design, location services, and notifications. It offers users a convenient solution for accessing weather information tailored to their preferences and locations.
